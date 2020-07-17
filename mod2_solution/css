@@ -27,7 +27,6 @@ h1 {
   overflow: none;
 }
 
-
 .content-name{
   overflow: none;
   text-align: center;
